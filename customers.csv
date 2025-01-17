@@ -1,0 +1,5 @@
+fname;lname;address;account_no;balance;account_type;interest_rate;overdraft_limit
+Adam;Smith;14, Wilcot Street, Bath, B5 5RT;1234;5000.00;Current;0.1;1000.00
+David;White;60, Holborn Viaduct, London, EC1A 2FD;1235;3200.00;Savings;1.5;0.00
+Alice;Churchil;5, Cardigan Street, Birmingham, B4 7BD;1236;18000.00;Premium Savings;2.5;0.00
+Ali;Abdallah;44, Churchill Way West, Basingstoke, RG21 6YR;1237;40.00;Current;0.1;500.00

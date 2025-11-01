@@ -26,19 +26,6 @@ Data Storage: JSON files (customers.json, transactions.json)
 
 Key Concepts: Object-Oriented Programming (OOP), File I/O, Data Serialization
 
-bankapp/
-├── src/
-│   ├── __init__.py
-│   ├── bank.py           # Main application logic and menu flow
-│   ├── customer.py       # Customer class definition
-│   └── transaction.py    # Transaction class definition
-├── data/
-│   ├── customers.json      # Stores customer account data
-│   └── transactions.json   # Stores all transaction records
-├── main.py               # Application entry point
-└── README.md
-
-How It Works
 The application is built around two main classes:
 
 Customer: Manages customer attributes like name, customer ID, PIN, and account balance.

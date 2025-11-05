@@ -1,4 +1,4 @@
-# BankApp
+# Banking App
 
 A secure and modular command-line banking application built with Python. This project simulates core banking operations, demonstrating principles of object-oriented programming, data persistence, and transaction management in a console-based interface.
 
